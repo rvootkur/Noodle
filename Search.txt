@@ -1,0 +1,11 @@
+url=https://www-dev.onewithuscrossier.com/
+BrowseOurTutors=//*[@id='main']/div[1]/div[2]/div[2]/div[1]/div[2]/div/a
+Subject=//*[@id='add_subject']/fieldset/span/a
+Accounting=//*[@id='ui-id-2']
+CarrerDevelopment=//*[@id='ui-id-4']
+Pricerange=//*[@id='price_range_high']
+Updatecost=//*[@id='cost_filter']/fieldset/a
+Rateperhr=//*[@id='main']/div[1]/div[2]/div[2]/div/div/div[2]/ul/li[4]/div/div/div/p[1]
+tutlink=//*[@id='main']/div[1]/div[2]/div[2]/div/div/div[2]/ul/li[4]/div/div/h3/a
+contacttutor=//*[@id='profile-contact-link']
+tutorname=.//*[@id='main']/div[1]/div[2]/div[2]/div/div/div[1]/h2

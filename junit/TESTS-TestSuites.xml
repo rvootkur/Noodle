@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="SYSTEM-49" id="0" name="AllTests" package="test" skipped="0" tests="2" time="108.884" timestamp="2015-11-30T19:39:27">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="SYSTEM-49" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="os.name" value="Windows 8.1" />
+
+          <property name="env.FP_NO_HOST_CHECK" value="NO" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_45\lib\resources.jar;C:\Program Files\Java\jre1.8.0_45\lib\rt.jar;C:\Program Files\Java\jre1.8.0_45\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_45\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_45\lib\jce.jar;C:\Program Files\Java\jre1.8.0_45\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_45\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_45\classes" />
+
+          <property name="env.COMPUTERNAME" value="SYSTEM-49" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="C:\Program Files\Apache Ant" />
+
+          <property name="java.runtime.version" value="1.8.0_45-b15" />
+
+          <property name="env.HOMEPATH" value="\Users\HCL GLOBAL.SYSTEM-49" />
+
+          <property name="user.name" value="HCL GLOBAL" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_45\bin" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="ant.project.name" value="Noodle" />
+
+          <property name="java.version" value="1.8.0_45" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel" />
+
+          <property name="user.timezone" value="Asia/Calcutta" />
+
+          <property name="env.TEMP" value="C:\Users\HCLGLO~1.SYS\AppData\Local\Temp" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_45\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="ant.file.Noodle" value="C:\Automation\Noodle\build.xml" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre1.8.0_45" />
+
+          <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+
+          <property name="env.APPDATA" value="C:\Users\HCL GLOBAL.SYSTEM-49\AppData\Roaming" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="C:\Automation\Noodle\build.xml" />
+
+          <property name="os.version" value="6.3" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.45-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="env.USERPROFILE" value="C:\Users\HCL GLOBAL.SYSTEM-49" />
+
+          <property name="ant.library.dir" value="C:\Program Files\Apache Ant\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_40" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\Users\HCLGLO~1.SYS\AppData\Local\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\HCL GLOBAL.SYSTEM-49" />
+
+          <property name="target" value="1.8" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.CLASSPATH" value="C:\Program Files\Java\jdk1.8.0_40\bin;C:\Program Files\Java\jdk1.8.0_40\jre\bin" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_45/bin/server;C:/Program Files/Java/jre1.8.0_45/bin;C:/Program Files/Java/jre1.8.0_45/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_40\bin;C:\Program Files\Apache Ant\bin;C:\Program Files\Java\jdk1.8.0_40\bin;C:\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+
+          <property name="java.class.path" value="C:\Automation\Noodle;D:\selenium-2.45.0\selenium-java-2.45.0.jar;D:\selenium-2.45.0\selenium-java-2.45.0-srcs.jar;D:\selenium-2.45.0\libs\apache-mime4j-0.6.jar;D:\selenium-2.45.0\libs\bsh-1.3.0.jar;D:\selenium-2.45.0\libs\cglib-nodep-2.1_3.jar;D:\selenium-2.45.0\libs\commons-codec-1.9.jar;D:\selenium-2.45.0\libs\commons-collections-3.2.1.jar;D:\selenium-2.45.0\libs\commons-exec-1.1.jar;D:\selenium-2.45.0\libs\commons-io-2.4.jar;D:\selenium-2.45.0\libs\commons-jxpath-1.3.jar;D:\selenium-2.45.0\libs\commons-lang3-3.3.2.jar;D:\selenium-2.45.0\libs\commons-logging-1.1.3.jar;D:\selenium-2.45.0\libs\cssparser-0.9.14.jar;D:\selenium-2.45.0\libs\gson-2.3.1.jar;D:\selenium-2.45.0\libs\guava-18.0.jar;D:\selenium-2.45.0\libs\hamcrest-core-1.3.jar;D:\selenium-2.45.0\libs\hamcrest-library-1.3.jar;D:\selenium-2.45.0\libs\htmlunit-2.15.jar;D:\selenium-2.45.0\libs\htmlunit-core-js-2.15.jar;D:\selenium-2.45.0\libs\httpclient-4.3.6.jar;D:\selenium-2.45.0\libs\httpcore-4.3.3.jar;D:\selenium-2.45.0\libs\httpmime-4.3.6.jar;D:\selenium-2.45.0\libs\ini4j-0.5.2.jar;D:\selenium-2.45.0\libs\jcommander-1.29.jar;D:\selenium-2.45.0\libs\jetty-websocket-8.1.8.jar;D:\selenium-2.45.0\libs\jna-3.4.0.jar;D:\selenium-2.45.0\libs\jna-platform-3.4.0.jar;D:\selenium-2.45.0\libs\junit-dep-4.11.jar;D:\selenium-2.45.0\libs\nekohtml-1.9.21.jar;D:\selenium-2.45.0\libs\netty-3.5.7.Final.jar;D:\selenium-2.45.0\libs\operadriver-1.5.jar;D:\selenium-2.45.0\libs\phantomjsdriver-1.2.1.jar;D:\selenium-2.45.0\libs\protobuf-java-2.4.1.jar;D:\selenium-2.45.0\libs\sac-1.3.jar;D:\selenium-2.45.0\libs\serializer-2.7.1.jar;D:\selenium-2.45.0\libs\testng-6.8.5.jar;D:\selenium-2.45.0\libs\xalan-2.7.1.jar;D:\selenium-2.45.0\libs\xercesImpl-2.11.0.jar;D:\selenium-2.45.0\libs\xml-apis-1.4.01.jar;D:\junit4_4.3.1.jar\junit4_4.3.1.jar;C:\Program Files\Java\jdk1.8.0_40\bin;C:\Program Files\Java\jdk1.8.0_40\jre\bin;C:\Program Files\Apache Ant\lib\ant-launcher.jar;C:\Program Files\Apache Ant\lib\ant.jar;C:\Program Files\Apache Ant\lib\ant-junit.jar;C:\Program Files\Apache Ant\lib\ant-junit4.jar" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner test.AllTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Automation\Noodle\junit\TEST-test.AllTests.xml crashfile=C:\Automation\Noodle\junitvmwatcher6350357562242602841.properties propsfile=C:\Automation\Noodle\junit8742500420592489267.properties" />
+
+          <property name="ant.file.type.Noodle" value="file" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.windir" value="C:\Windows" />
+
+          <property name="env.LOGONSERVER" value="\\SYSTEM-49" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.ANT_HOME" value="C:\Program Files\Apache Ant" />
+
+          <property name="java.io.tmpdir" value="C:\Users\HCLGLO~1.SYS\AppData\Local\Temp\" />
+
+          <property name="env.PROCESSOR_REVISION" value="3c03" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SystemRoot" value="C:\Windows" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_45\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\HCL GLOBAL.SYSTEM-49\AppData\Local" />
+
+          <property name="user.dir" value="C:\Automation\Noodle" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_45/bin/server;C:/Program Files/Java/jre1.8.0_45/bin;C:/Program Files/Java/jre1.8.0_45/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_40\bin;C:\Program Files\Apache Ant\bin;C:\Program Files\Java\jdk1.8.0_40\bin;C:\eclipse;" />
+
+          <property name="basedir" value="C:\Automation\Noodle" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="C:\Program Files\Apache Ant\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="HCL GLOBAL" />
+
+          <property name="source" value="1.8" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.USERDOMAIN" value="SYSTEM-49" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="ant.project.invoked-targets" value="build,AllTests,junitreport" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+      </properties>
+
+      <testcase classname="test.Contacttutor" name="testContactTutor" time="60.09" />
+
+      <testcase classname="test.Search" name="testSearch1" time="48.64" />
+
+      <system-out><![CDATA[Tutor Page CheckPoint Passed
+Cost Range CheckPoint Passed
+Contact Page CheckPoint Passed
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
