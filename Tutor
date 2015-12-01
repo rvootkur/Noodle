@@ -1,0 +1,16 @@
+url=https://www-dev.onewithuscrossier.com/schedule/tutoring/OWI2ZGI4ZWY3NmJhYTY
+payercheckbox=//*[@id='create-case']/fieldset/div[4]/label
+privacypolicy=//*[@id='create-case']/fieldset/div[11]/label
+StudentFirstName=//*[@id='studentFirstName']
+StudentLastName=//*[@id='studentLastName']
+FName=Ravinder
+LName=Vootkur
+yourEmail=//*[@id='yourEmail']
+EmailAddress=rvootkurNov26std@noodle.com
+yourPhone=//*[@id='yourPhone']
+Pnumber=6178897852
+subject=//*[@id='subject']
+Tutorsubject=maths
+Payermessage=//*[@id='initial_payer_message']
+Message=test
+Submit=//*[@id='submit-case-btn']
